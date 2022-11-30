@@ -98,7 +98,6 @@ callbacks: |
   }
 cargoAcceptance:
 - SAND
-- SASH
 cargoProduction:
 - GLAS
 colour: 151
@@ -211,4 +210,4 @@ tiles:
       filename: industries/glass-works/7.png
       left: -31
       top: 0
-type: secondary
+type: primary
