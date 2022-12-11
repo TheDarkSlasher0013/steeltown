@@ -98,6 +98,7 @@ callbacks: |
   }
 cargoAcceptance:
 - SAND
+- COAL
 cargoProduction:
 - GLAS
 colour: 151
@@ -153,7 +154,7 @@ layout:
     - -1
     - -1
 name: Glass Works
-placement: anywhere
+placement: near-town
 probabilityInGame: 1
 probabilityMapGen: 5
 prospectChance: 0
